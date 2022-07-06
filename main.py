@@ -1,7 +1,3 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import math
 
 
@@ -1293,24 +1289,28 @@ print(a(10))
 
 # print(a(s,0)) #ERROR: s not defined
 
+
 # variable = t
 # if variable == t
 #    lambda variable: a
 
-# friendly note : since a & b :
+
 def a(x):
     return x ** 2
 
 
 b = lambda x: x ** 2
 
-# note: I cannot use `type` to differentiate them , since they're both of the same type
+# Friendly note : since a & b :
+
+# Note: Cannot use `type` to differentiate them , since they're both of the same type
 
 
 assert type(a) == type(b)
 
 # also types.LambdaTypes doesn't help:
 
+#work-around 
 import types
 
 isinstance(a, types.LambdaType)
@@ -1353,5 +1353,5 @@ print(f, is_lambda_func(f))
 print(g, is_lambda_func(g))
 
 # provided you give it a Qualified name more. a function
-# it is unMeaningful : what's difference between the `list` by a list comprehension vs list populated by for loop
+# it is unMeaningful (#TODO: Q. what's difference between the `list` by a list comprehension vs list populated by for loop?)
 # just like difference between string of single quotes, vs string of double quotes
