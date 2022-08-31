@@ -10,9 +10,12 @@ Laplace Transform , Inverse Transform, for differentiation &amp; Integration
 À la mémoire de Monsieur de Honoré, M. "_**Pierre-Simon, de Laplace**_" </br>
 In the Memory of a Respected Man of Honor, Mr. "_**Pierre-Simon de Laplace**_"</br>
 
-# Motivation 
+## Motivation 
 
 With a need of Engineering a closed-form system of Differentiation & Integration Tools for **Homogeneous Equations**
 there has got to be set, and prepare a Repo trunk, that helps conquering day-to-day math conquests
 
 
+## Wiki 
+
+You can access the `Wiki` from [this Link](https://github.com/adamwillisMastery/Laplace/wiki)
