@@ -15,8 +15,16 @@ Hence by preparing this Repository, to face the day-to-day Mathematical Conquest
 ## Methodology 
  - [x] Parse Input 
  - [x] Calculus: Diffenritate, Integrate 
- - [ ] Contour Integrals
+ - [ ] Calculus: Reimann Sum
+ - [ ] Differential Equation : Laplace Transform 
 
+## Reference 
+1. MIT OCW, Riemann sum | MIT 18.01SC Single Variable Calculus, Fall 2010. MIT OWC, Christine Breiner. Available at: https://www.youtube.com/watch?v=ELWqePHYjCk.
+2. Professor Gross, Herbert Gross, Bunker Hill Community, MIT
+, Part II: Differential Equations, Lec 7: Laplace Transforms , https://www.youtube.com/watch?v=an5E940fqZQ 
+
+### Professor Herbert Gross
+[Professor Herbert Gross  R.I.P (2020)](https://en.wikipedia.org/wiki/Herbert_Gross)
 ## Wiki 
 
 You can access the `Wiki` from [this Link](https://github.com/adamwillisMastery/Laplace/wiki)
